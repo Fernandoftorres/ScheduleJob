@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ScheduleJOB/.vs
+/src/ScheduleJOB/ScheduleJOB.Api/bin
+/src/ScheduleJOB/ScheduleJOB.Api/obj
