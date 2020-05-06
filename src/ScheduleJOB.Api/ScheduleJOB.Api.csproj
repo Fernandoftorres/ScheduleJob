@@ -13,5 +13,9 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ScheduleJOB.Domain\ScheduleJOB.Domain.csproj" />
+  </ItemGroup>
+
 
 </Project>

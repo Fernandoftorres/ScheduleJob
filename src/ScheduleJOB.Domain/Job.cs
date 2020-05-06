@@ -1,16 +1,14 @@
 ﻿using FluentValidation;
-using ScheduleJob.Domain.Core.Models;
 using System;
 
-namespace ScheduleJob.Domain.Entidades
+namespace ScheduleJOB.Domain
 {
     public class Job : BaseDomain<Job>
     {
         public Job(int id, 
                    string descricao,
                    DateTime dataMaximaConclusao,
-                   int tempoEstimado
-                   )
+                   int tempoEstimado)
         {
             Id = id;
             Descricao = descricao;

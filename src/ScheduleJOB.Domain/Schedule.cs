@@ -1,10 +1,9 @@
 ﻿using FluentValidation;
-using ScheduleJob.Domain.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ScheduleJob.Domain.Entidades
+namespace ScheduleJOB.Domain
 {
     public class Schedule : BaseDomain<Schedule>
     {

@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
 using FluentValidation.Results;
 
-namespace ScheduleJob.Domain.Core.Models
+namespace ScheduleJOB.Domain
 {
     public abstract class BaseDomain<T> : AbstractValidator<T> where T : BaseDomain<T>
     {
