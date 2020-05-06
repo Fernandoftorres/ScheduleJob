@@ -5,3 +5,5 @@
 /src/.vs
 /src/ScheduleJOB.Api/bin
 /src/ScheduleJOB.Api/obj
+/src/ScheduleJOB.Domain/bin
+/src/ScheduleJOB.Domain/obj
