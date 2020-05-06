@@ -7,3 +7,5 @@
 /src/ScheduleJOB.Api/obj
 /src/ScheduleJOB.Domain/bin
 /src/ScheduleJOB.Domain/obj
+/src/ScheduleJOB.Tests/bin
+/src/ScheduleJOB.Tests/obj
