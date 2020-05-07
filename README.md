@@ -4,7 +4,6 @@ Tecnologias utilizadas:
 
  - Net Core 3.1
  - C#
- - AutoMapper
  - FluentValidation
  - Swagger
  
